@@ -1,8 +1,7 @@
-
-<p align="center">
+![](https://komarev.com/ghpvc/?username=w6t&color=grey) 
+<p align="center">  
   <br>
   <samp>
-    ![](https://komarev.com/ghpvc/?username=w6t&color=grey)   
     I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Iheb6ix0</a></b>.
     <br>python,Golang,C#,C++</a></b>.<br>
 
