@@ -2,10 +2,10 @@
 <p align="center">  
   <br>
   <samp>
-    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">Vlourn#0009</a></b>.
+    I'm <b><a rel="nofollow noopener noreferrer" target="_blank">$Y#8300</a></b>.
     <br>python,Golang,C#,C++</a></b>.<br>
 </samp>
-  <img src="https://images-ext-2.discordapp.net/external/cZZSAt54whQUlPqRscWdfsAg3F6K5IfSalvdYhoTlsI/https/storage.googleapis.com/replit/images/1633825992805_9aa2168467b24f109e4f4c119ed6cfb3.gif?width=307&height=473" width="200"/>
+  <img src="https://cdn.discordapp.com/avatars/881229723055829012/a_52f479f5765b1259c0488711f49d1760.gif?size=80" width="200"/>
 </p>
 <p align="center">
   <br><br>
